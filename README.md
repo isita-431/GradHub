@@ -1,1 +1,1 @@
-# Student Networking App
+# This is a Student Networking App
